@@ -63,3 +63,25 @@ section#redes-socias img:hover {
     transition: trasnform 0.2s, border 0.3s;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.626);
 }
+
+button{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    padding: 0px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.478);
+    
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    background-image: url("../imagens/logo-facebook.jpg");
+    background-size: cover;
+}
+button:hover {
+    border: 2px solid rgba(255, 255, 255, 0.573);
+    transform: translate(-3px, -3px);
+    transition: transform 0.2s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.626);
+}
