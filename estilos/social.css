@@ -1,8 +1,8 @@
 @charset "UTF-8";
-/* ::-webkit-scrollbar{
+::-webkit-scrollbar{
     width: 0px;
-    height: 0px;    Para retirar a barra de rolagem vertical e horizontal.
-} */
+    height: 0px;    
+}
 * {
     margin: 0px;
     padding: 0px;
